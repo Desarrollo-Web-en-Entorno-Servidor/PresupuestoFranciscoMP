@@ -17,4 +17,6 @@ Donde se controla el fujo de la página es en el <strong>Servlet Controllers</st
 
 En donde se calcula la cuota es en la <em>clase</em> <strong>CalcularCuota.java</strong> que consta de dos métodos para realizar los cálculos de la prima de edificio y otro método donde se calcula la prima de continente.
 
+Estructura Proyecto:
 
+![Estructra Proyecto](https://github.com/Desarrollo-Web-en-Entorno-Servidor/PresupuestoFranciscoMP/blob/master/src/main/webapp/IMAGEN/PresupuestoFranciscoMP.jpg)
